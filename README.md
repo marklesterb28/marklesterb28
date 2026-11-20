@@ -1,6 +1,6 @@
 # Hi, I'm Lester
 
-IT support engineer with 10+ years in technical support and service desk roles. Day to day I work in Microsoft 365, Entra ID and Active Directory on an MSP helpdesk, onboarding and offboarding users across many client tenants.
+IT support engineer with 10+ years in technical support and service desk roles, currently covering the weekend and after-hours helpdesk for a Chicago-based MSP/MSSP. Day to day I work in Microsoft 365, Entra ID and Active Directory, handle onboarding and offboarding across many client tenants, and manage email security. I have led a 20-person service desk team and rebuilt a knowledge base.
 
 Outside work I run a homelab managed as code, and I build small tools with AI coding agents: I design and review every change, the agents write the code.
 
@@ -13,7 +13,7 @@ Outside work I run a homelab managed as code, and I build small tools with AI co
 
 ## Certifications
 
-Kaseya Certified Technician: Datto RMM · Microsoft Azure Fundamentals (AZ-900) · Microsoft 365 Fundamentals (MS-900) · working on AZ-104 and SC-300
+Kaseya Certified Technician: Datto RMM · Microsoft Azure Fundamentals (AZ-900) · Microsoft 365 Fundamentals (MS-900) · working on AZ-104, SC-300 and Apple Device Support
 
 ## Elsewhere
 
