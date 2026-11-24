@@ -6,6 +6,7 @@ Outside work I run a homelab managed as code, and I build small tools with AI co
 
 ## Projects
 
+- **[glitchwall](https://github.com/marklesterb28/glitchwall)**: my coding agent's tool calls as a live, glitchy retro-terminal wallpaper on Windows. Local only, secrets masked before anything is drawn.
 - **[homelab](https://github.com/marklesterb28/homelab)**: how my homelab is built. Proxmox with one VM per role, Ansible and Docker Compose, Traefik, passkey single sign-on with Pocket ID, Tailscale and Cloudflare Tunnel. No open ports.
 - **[agentwatch](https://github.com/marklesterb28/agentwatch)**: a read-only terminal dashboard that shows what Claude Code sessions and their subagents are doing, in plain English.
 - **[chorecast](https://github.com/marklesterb28/chorecast)**: a household chores app with a server, an Android phone app and an Android TV app.
